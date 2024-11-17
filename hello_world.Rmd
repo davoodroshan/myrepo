@@ -2,9 +2,7 @@
 title: "Hello World"
 author: "Mona Isazad Mashinchi"
 date: "2024-11-17"
-output:
-  html_document:
-    keep_md: true
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
