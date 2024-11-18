@@ -2,13 +2,22 @@
 title: "test markdown"
 author: "Davood Roshan"
 date: "2024-11-18"
-output: github_document
+output:
+  html_document:
+    keep_md: true
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+testing
+
+output:
+  html_document:
+    keep_md: true
+    
+    
 ## R Markdown
 
 This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
