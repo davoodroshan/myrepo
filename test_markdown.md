@@ -9,11 +9,7 @@ output:
 
 
 
-testing
-
-output:
-  html_document:
-    keep_md: true
+testing from gitgub
     
     
 ## R Markdown
